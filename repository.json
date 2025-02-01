@@ -43,5 +43,10 @@
     "link": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/plugin.json",
     "author": "Nahona",
     "description": "Nahona"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/tulx1702/vbook-extensions/master/plugin.json",
+    "author": "vBook",
+    "description": ""
   }
 ]

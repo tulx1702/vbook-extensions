@@ -108,6 +108,11 @@ function execute() {
             "script": "gen.js"
         },
         {
+            "input": "/the-loai/manga-469.html",
+            "title": "Manga",
+            "script": "gen.js"
+        },
+        {
             "input": "/the-loai/manhua-35.html",
             "title": "Manhua",
             "script": "gen.js"
